@@ -1,0 +1,40 @@
+﻿<h3> Admit Card</h3>
+<form method="post" action="/deptVerify/" class="bg-white rounded pb_form_v1">
+    <div>
+        <div class="admitheader" style="height:70px;">
+            <span class="col-md-1"><img src="../../assets/images/iit.png" alt="Smiley face" height="50" width="35"></span>
+            <span class="col-md-10"><span>IIT,</span>University of Dhaka</span>
+            <span class="col-md-1"><img src="../../assets/images/du.jpg" alt="Smiley face" height="50" width="35"></span>
+        </div>
+        
+        <p> </p>
+        <div class="admitheader">
+            <span> Applicant's Copy</span>
+            <span> <b>&nbsp Admit Card &nbsp</b> </span>
+            <span>Regular</span>
+        </div>
+        <p> </p>
+        <div class="admitheader">
+            <p> Name: &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp @TempData["name"]
+                <span class="col-sm-1"><img src="../../assets/images/nazmul.JPG" alt="Smiley face" height="50" width="35"></span>
+            </p>
+            <p> Registration No: &nbsp &nbsp &nbsp @TempData["regNum"]</p>
+            <p> Exam Roll: &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp @TempData["examRoll"]</p>
+            <p> Father's Name: &nbsp &nbsp &nbsp  &nbsp @TempData["fatherName"]</p>
+            <p> Mother's Name: &nbsp &nbsp &nbsp  @TempData["motherName"]</p>
+        </div>
+    </div>
+    <div>
+        <p>
+            <span class="col-sm-1" style="margin-left: 30px; margin-right: 140px"><img src="../../assets/images/sig.jpg" alt="Smiley face" height="50" width="35"></span>
+            <span class="col-sm-1"><img src="../../assets/images/sig2.png" alt="Smiley face" height="50" width="35"></span>
+        </p>
+        <span>Applicant's signature</span>
+        <span>&nbsp &nbsp Director's signature</span>
+    </div>
+
+    <div class="form-group">
+        <small style="color: blue">Form Fill up Complete. Remember your Exam Roll.</small>
+        <input type="submit" name="submit" class="btn btn-primary btn-lg btn-block pb_btn-pill  btn-shadow-blue" value="Go Back">
+    </div>
+</form>

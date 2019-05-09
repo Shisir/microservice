@@ -1,0 +1,23 @@
+﻿<h3> Department Information</h3>
+<form method="post" action="/hallVerify/" class="bg-white rounded pb_form_v1">
+    <div class="form-group">
+        <label for="regNum">Registration Number</label>
+        <input type="text" readonly="readonly" id="regNum" name="regNum" class="form-control pb_height-30 reverse" value='@TempData["regNum"]' >     
+    </div>
+    <div class="form-group">
+        <label for="attendance">Attendance</label>
+        <input type="text" readonly="readonly" id="attendance" name="attendance" class="form-control pb_height-30 reverse" value='@TempData["attendance"]' >     
+    </div>
+    <div class="form-group">
+        <label for="dept_payment">Payment</label>
+        <input type="text" readonly="readonly" id="dept_payment" name="dept_payment" class="form-control pb_height-30 reverse" value='@TempData["dept_payment"]' >     
+    </div>
+    
+    
+    <div class="form-group">
+        <input type="submit" name="submit" class="btn btn-primary btn-lg btn-block pb_btn-pill  btn-shadow-blue" value="Submit For Hall Verification">
+        <input type="submit" name="submit" class="btn btn-primary btn-lg btn-block pb_btn-pill  btn-shadow-blue" value="Go Back">
+    </div>
+   
+</form>
+

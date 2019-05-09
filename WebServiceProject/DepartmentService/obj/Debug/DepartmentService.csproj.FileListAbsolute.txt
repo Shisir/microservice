@@ -1,0 +1,16 @@
+/home/nazmul/Dropbox/DSE/WebServiceProject/DepartmentService/bin/DepartmentService.dll
+/home/nazmul/Dropbox/DSE/WebServiceProject/DepartmentService/bin/DepartmentService.pdb
+/home/nazmul/Dropbox/DSE/WebServiceProject/DepartmentService/bin/MySql.Data.dll
+/home/nazmul/Dropbox/DSE/WebServiceProject/DepartmentService/obj/Debug/DepartmentService.csproj.CoreCompileInputs.cache
+/home/nazmul/Dropbox/DSE/WebServiceProject/DepartmentService/obj/Debug/DepartmentService.csproj.CopyComplete
+/home/nazmul/Dropbox/DSE/WebServiceProject/DepartmentService/obj/Debug/DepartmentService.dll
+/home/nazmul/Dropbox/DSE/WebServiceProject/DepartmentService/obj/Debug/DepartmentService.pdb
+/home/nazmul/Dropbox/DSE/WebServiceProject/DepartmentService/obj/Debug/DepartmentService.csprojAssemblyReference.cache
+/home/nazmul/Pictures/microservice/WebServiceProject/DepartmentService/bin/DepartmentService.dll
+/home/nazmul/Pictures/microservice/WebServiceProject/DepartmentService/bin/DepartmentService.pdb
+/home/nazmul/Pictures/microservice/WebServiceProject/DepartmentService/bin/MySql.Data.dll
+/home/nazmul/Pictures/microservice/WebServiceProject/DepartmentService/obj/Debug/DepartmentService.csprojAssemblyReference.cache
+/home/nazmul/Pictures/microservice/WebServiceProject/DepartmentService/obj/Debug/DepartmentService.csproj.CoreCompileInputs.cache
+/home/nazmul/Pictures/microservice/WebServiceProject/DepartmentService/obj/Debug/DepartmentService.csproj.CopyComplete
+/home/nazmul/Pictures/microservice/WebServiceProject/DepartmentService/obj/Debug/DepartmentService.dll
+/home/nazmul/Pictures/microservice/WebServiceProject/DepartmentService/obj/Debug/DepartmentService.pdb

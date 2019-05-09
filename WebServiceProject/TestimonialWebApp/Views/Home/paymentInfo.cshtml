@@ -1,0 +1,18 @@
+﻿<h3> Payment Information of Form Fill up</h3>
+<form method="post" action="/submitPayment/" class="bg-white rounded pb_form_v1">
+    <div class="form-group">
+        <label for="regNum">Registration Number</label>
+        <input type="text" readonly="readonly" id="regNum" name="regNum" class="form-control pb_height-30 reverse" value='@TempData["regNum"]' >     
+    </div>
+    <div class="form-group">
+        <label for="fee">Form fill up fee</label>
+        <input type="text" readonly="readonly" id="fee" name="fee" class="form-control pb_height-30 reverse" value="325" >     
+    </div>
+ 
+    <div class="form-group">
+        <small style="color: blue">After submitting this form, you will get a transaction number.</small>
+        <input type="submit" name="submit" class="btn btn-primary btn-lg btn-block pb_btn-pill  btn-shadow-blue" value="Submit">
+        <input type="submit" name="submit" class="btn btn-primary btn-lg btn-block pb_btn-pill  btn-shadow-blue" value="Go Back">
+    </div>
+   
+</form>

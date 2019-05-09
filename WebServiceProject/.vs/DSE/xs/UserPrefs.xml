@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{636681F9-18F3-431E-B071-DEAE8BFA220B}|">
+  <MonoDevelop.Ide.ItemProperties.StudentVerifierService PreferredExecutionTarget="firefox" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DSE" expanded="True">
+            <Node name="OEFSV" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/nazmul/Pictures/microservice/WebServiceProject/ApplicationService/Controllers/HomeController.cs" relfile="ApplicationService/Controllers/HomeController.cs" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OEFSV PreferredExecutionTarget="firefox" />
+</Properties>

@@ -1,0 +1,16 @@
+/home/nazmul/Dropbox/DSE/WebServiceProject/HallService/bin/HallService.dll
+/home/nazmul/Dropbox/DSE/WebServiceProject/HallService/bin/HallService.pdb
+/home/nazmul/Dropbox/DSE/WebServiceProject/HallService/bin/MySql.Data.dll
+/home/nazmul/Dropbox/DSE/WebServiceProject/HallService/obj/Debug/HallService.csproj.CoreCompileInputs.cache
+/home/nazmul/Dropbox/DSE/WebServiceProject/HallService/obj/Debug/HallService.csproj.CopyComplete
+/home/nazmul/Dropbox/DSE/WebServiceProject/HallService/obj/Debug/HallService.dll
+/home/nazmul/Dropbox/DSE/WebServiceProject/HallService/obj/Debug/HallService.pdb
+/home/nazmul/Dropbox/DSE/WebServiceProject/HallService/obj/Debug/HallService.csprojAssemblyReference.cache
+/home/nazmul/Pictures/microservice/WebServiceProject/HallService/bin/HallService.dll
+/home/nazmul/Pictures/microservice/WebServiceProject/HallService/bin/HallService.pdb
+/home/nazmul/Pictures/microservice/WebServiceProject/HallService/bin/MySql.Data.dll
+/home/nazmul/Pictures/microservice/WebServiceProject/HallService/obj/Debug/HallService.csprojAssemblyReference.cache
+/home/nazmul/Pictures/microservice/WebServiceProject/HallService/obj/Debug/HallService.csproj.CoreCompileInputs.cache
+/home/nazmul/Pictures/microservice/WebServiceProject/HallService/obj/Debug/HallService.csproj.CopyComplete
+/home/nazmul/Pictures/microservice/WebServiceProject/HallService/obj/Debug/HallService.dll
+/home/nazmul/Pictures/microservice/WebServiceProject/HallService/obj/Debug/HallService.pdb

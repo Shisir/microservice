@@ -1,0 +1,25 @@
+﻿<h3> Hall Information</h3>
+<form method="post" action="/formPayment/" class="bg-white rounded pb_form_v1">
+    <div class="form-group">
+        <label for="regNum">Registration Number</label>
+        <input type="text" readonly="readonly" id="regNum" name="regNum" class="form-control pb_height-30 reverse" value='@TempData["regNum"]' >     
+    </div>
+    @{
+        bool is_resident = (bool)TempData["is_resident"];
+        if(is_resident)
+        {
+            <div class="form-group">
+                <label for="hall_payment_res">Hall Payment</label>
+                <input type="text" readonly="readonly" id="hall_payment_res" name="hall_payment_res" class="form-control pb_height-30 reverse" value='@TempData["hall_payment_res"]' >     
+            </div>
+        }
+    }
+    
+ 
+    <div class="form-group">
+        <input type="submit" name="submit" class="btn btn-primary btn-lg btn-block pb_btn-pill  btn-shadow-blue" value="Form Fill up Payment">
+        <input type="submit" name="submit" class="btn btn-primary btn-lg btn-block pb_btn-pill  btn-shadow-blue" value="Go Back">
+    </div>
+   
+</form>
+

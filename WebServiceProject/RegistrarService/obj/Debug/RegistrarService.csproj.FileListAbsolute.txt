@@ -1,0 +1,16 @@
+/home/nazmul/Dropbox/DSE/WebServiceProject/RegistrarService/bin/RegistrarService.dll
+/home/nazmul/Dropbox/DSE/WebServiceProject/RegistrarService/bin/RegistrarService.pdb
+/home/nazmul/Dropbox/DSE/WebServiceProject/RegistrarService/bin/MySql.Data.dll
+/home/nazmul/Dropbox/DSE/WebServiceProject/RegistrarService/obj/Debug/RegistrarService.csprojAssemblyReference.cache
+/home/nazmul/Dropbox/DSE/WebServiceProject/RegistrarService/obj/Debug/RegistrarService.csproj.CoreCompileInputs.cache
+/home/nazmul/Dropbox/DSE/WebServiceProject/RegistrarService/obj/Debug/RegistrarService.csproj.CopyComplete
+/home/nazmul/Dropbox/DSE/WebServiceProject/RegistrarService/obj/Debug/RegistrarService.dll
+/home/nazmul/Dropbox/DSE/WebServiceProject/RegistrarService/obj/Debug/RegistrarService.pdb
+/home/nazmul/Pictures/microservice/WebServiceProject/RegistrarService/bin/RegistrarService.dll
+/home/nazmul/Pictures/microservice/WebServiceProject/RegistrarService/bin/RegistrarService.pdb
+/home/nazmul/Pictures/microservice/WebServiceProject/RegistrarService/bin/MySql.Data.dll
+/home/nazmul/Pictures/microservice/WebServiceProject/RegistrarService/obj/Debug/RegistrarService.csprojAssemblyReference.cache
+/home/nazmul/Pictures/microservice/WebServiceProject/RegistrarService/obj/Debug/RegistrarService.csproj.CoreCompileInputs.cache
+/home/nazmul/Pictures/microservice/WebServiceProject/RegistrarService/obj/Debug/RegistrarService.csproj.CopyComplete
+/home/nazmul/Pictures/microservice/WebServiceProject/RegistrarService/obj/Debug/RegistrarService.dll
+/home/nazmul/Pictures/microservice/WebServiceProject/RegistrarService/obj/Debug/RegistrarService.pdb
